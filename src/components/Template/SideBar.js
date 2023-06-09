@@ -19,8 +19,8 @@ const SideBar = () => (
 
     <section className="blurb">
       <h2>About</h2>
-      <p>Hi, I&apos;m Stephen. My goal is to pursue career success in the field of data analysis. 
-      In my free time I like working on open source projects.
+      <p>Hi, I&apos;m Stephen. My goal is to pursue career success in the field of data analysis.
+        In my free time I like working on open source projects.
       </p>
       <ul className="actions">
         <li>
@@ -28,6 +28,11 @@ const SideBar = () => (
         </li>
       </ul>
     </section>
+    
+    <section id="footer">
+      <ContactIcons />
+    </section>
+    
   </section>
 );
 

@@ -28,11 +28,9 @@ const SideBar = () => (
         </li>
       </ul>
     </section>
-    
     <section id="footer">
       <ContactIcons />
     </section>
-    
   </section>
 );
 

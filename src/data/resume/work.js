@@ -48,8 +48,8 @@ const work = [
     highlights: [
       'Delivered accurate and efficient laboratory operations under high pressure as a team.',
       'Performed RNA and DNA extraction and quality control of 100 to 200 RNA or DNA samples per day.',
-      "Performed Plasma separation and aliquoting of an average of 100 blood samples per day.",
-      "Utilized laboratory automation systems.",
+      'Performed Plasma separation and aliquoting of an average of 100 blood samples per day.',
+      'Utilized laboratory automation systems.',
       'Implemented the Laboratory Information Management System (LIMS).',
       'Monitored the laboratory environment and maintained the optimal condition of equipment.',
     ],

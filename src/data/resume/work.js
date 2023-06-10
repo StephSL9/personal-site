@@ -15,7 +15,6 @@ const work = [
     position: 'Junior Data Analyst Program',
     startDate: '2023-01-09',
     endDate: '2023-04-15',
-    
     highlights: [
       'Utilize Excel spreadsheets to perform data wrangling and data mining.',
       'Develop working knowledge of Python language for data analysis using Pandas and Numpy.',

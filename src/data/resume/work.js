@@ -4,7 +4,6 @@
  *
  * @property {string} name - Name of the company
  * @property {string} position - Position title
- * @property {string} url - Company website
  * @property {string} startDate - Start date of the position in YYYY-MM-DD format
  * @property {string|undefined} endDate - End date of the position in YYYY-MM-DD format.
  * If undefined, the position is still active.
@@ -15,7 +14,6 @@ const work = [
   {
     name: 'Smile Identity',
     position: 'VP Engineering & Head of AI',
-    url: 'https://smileidentity.com',
     startDate: '2022-01-01',
     summary: `Smile builds machine learning APIs to compare user submitted photos to ID documents. Our APIs are
     used by hundreds of thousands of people every day to access financial services. As VP of Engineering,
@@ -35,7 +33,6 @@ const work = [
   {
     name: 'Skeptical Investments',
     position: 'Co-founder',
-    url: 'http://skepticalinvestments.biz',
     startDate: '2017-04-01',
     summary: `Skeptical Investments is a micro-vc fund focused on Angel, Seed, and Series-A
     YC companies.`,
@@ -47,7 +44,6 @@ const work = [
   {
     name: 'Arthena',
     position: 'Co-founder & C.T.O.',
-    url: 'https://arthena.com',
     startDate: '2014-01-01',
     endDate: '2022-01-01',
     summary: `Arthena is a Series A Company funded by <a href="https://www.anthemis.com/">Athemis</a>,

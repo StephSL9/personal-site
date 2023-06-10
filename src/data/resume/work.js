@@ -7,27 +7,25 @@
  * @property {string} startDate - Start date of the position in YYYY-MM-DD format
  * @property {string|undefined} endDate - End date of the position in YYYY-MM-DD format.
  * If undefined, the position is still active.
- * @property {string|undefined} summary - html/markdown summary of the position
  * @property {string[]} highlights - plain text highlights of the position (bulleted list)
  */
 const work = [
   {
-    name: 'Smile Identity',
-    position: 'VP Engineering & Head of AI',
-    startDate: '2022-01-01',
-    summary: `Smile builds machine learning APIs to compare user submitted photos to ID documents. Our APIs are
-    used by hundreds of thousands of people every day to access financial services. As VP of Engineering,
-    I provide technical leadership on high-impact projects, influence and coach a distributed team of engineers,
-    and facilitate alignment and clarity across teams on goals, outcomes, and timelines. I was promoted
-    from Director of Engineering to VP of Engineering in April 2022, and then to VP of Engineering and Head
-    of AI in November 2022. I lead a 20+ person engineering org. I directly manage ~8 engineers and spend
-    >50% of my time writing code.`,
+    name: 'Npower Canada',
+    position: 'Junior Data Analyst Program',
+    startDate: '2023-01-09',
+    endDate: '2023-04-15',
+    
     highlights: [
-      'Redesigned engineering processes for bug tracking, meetings, and standups. Improved culture for code reviews, blameless post-mortems, and retrospectives.',
-      'Re-architected engineering hiring and onboarding processes. Recruited several strong engineers.',
-      'Reorged engineering teams to focus on product delivery. Created a new team to focus on ML infrastructure.',
-      'Lead re-design of internal APIs for inference. Built new computer vision pipelines for industry leading certifications (NIST/iBeta liveness).',
-      'Pitched, designed, developed, deployed, and maintain a fraud detection product based on 1-N facial recognition using embeddings and vector search.',
+      'Utilize Excel spreadsheets to perform data wrangling and data mining.',
+      'Develop working knowledge of Python language for data analysis using Pandas and Numpy.',
+      'Effectively complete a capstone project by collecting data from multiple sources, performing exploratory data analysis, data wrangling, statistical analysis and mining of the data using Python libraries.',
+      'Work extensively on creating charts and plots to visualize data, and building an interactive dashboard using IBMs Cognos Analytics and various Excel charts/graphs.',
+      'Visualize data using Python libraries including Matplotlib, Seaborn, Plotly and Dash.',
+      'Compose queries to access data in cloud databases using SQL and Python from Jupyter notebooks.',
+      'Explain cloud concepts, benefits of cloud computing and core Azure architecture components.',
+      'Use core Azure services and choose the Azure AI services that best address a company’s challenges.',
+      'Control Azure spending and managing bills by applying recommended practices to minimize cost.',
     ],
   },
   {
